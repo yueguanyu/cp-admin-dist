@@ -793,21 +793,25 @@ MIT
 @angular/forms
 MIT
 
-@angular/material/expansion
+@angular/material/checkbox
 
-@angular/material/icon
+@angular/material/table
 
 @angular/material/form-field
 
 @angular/material/button
 
-@angular/material/dialog
+@angular/material/expansion
 
-@angular/material/datepicker
+@angular/material/icon
 
 @angular/material/card
 
 @angular/material/snack-bar
+
+@angular/material/dialog
+
+@angular/material/datepicker
 
 @angular/material/sidenav
 
