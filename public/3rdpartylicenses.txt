@@ -805,6 +805,14 @@ MIT
 
 @angular/material/icon
 
+@angular/material/tooltip
+
+@angular/material/core
+
+@angular/material/select
+
+@angular/material/paginator
+
 @angular/material/card
 
 @angular/material/snack-bar
@@ -816,8 +824,6 @@ MIT
 @angular/material/sidenav
 
 @angular/material/toolbar
-
-@angular/material/core
 
 @angular/material/list
 
