@@ -803,9 +803,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/divider
-
 @angular/material/tabs
+
+@angular/material/divider
 
 @angular/material/checkbox
 
